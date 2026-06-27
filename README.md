@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📺 Watch Anime Online — Best Anime Streaming Sites & Recommendations (2025)
+# 📺 Watch Anime Online — Best Anime Streaming Sites & Recommendations (2026)
 
 **The ultimate guide to watching anime online for free. Streaming sites, genre recommendations, watch order guides, and seasonal charts — all in one place.**
 
