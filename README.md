@@ -5,7 +5,7 @@
 **The ultimate guide to watching anime online for free. Streaming sites, genre recommendations, watch order guides, and seasonal charts — all in one place.**
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-[![Last Updated](https://img.shields.io/badge/updated-June%272026-blue.svg)](#)
+[![Last Updated](https://img.shields.io/badge/updated-June%202026-blue.svg)](#)
 [![Stars](https://img.shields.io/github/stars/NightFury-Supreme/watch-anime-online?style=social)](#)
 
 [🔥 **Start Watching Now →**](https://rewatch.space)
